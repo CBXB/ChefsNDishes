@@ -2966,6 +2966,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\crasg\\OneDrive\\04_Coding_Dojo\\C_Sharp\\03_Intro to ASP\\ChefsNDishes\\Views\\Home\\AddDish.cshtml",
+      "TargetPath": "Views\\Home\\AddDish.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\crasg\\OneDrive\\04_Coding_Dojo\\C_Sharp\\03_Intro to ASP\\ChefsNDishes\\Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
       "FileKind": "mvc"
@@ -2976,6 +2981,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\crasg\\OneDrive\\04_Coding_Dojo\\C_Sharp\\03_Intro to ASP\\ChefsNDishes\\Views\\Home\\Dishes.cshtml",
+      "TargetPath": "Views\\Home\\Dishes.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\crasg\\OneDrive\\04_Coding_Dojo\\C_Sharp\\03_Intro to ASP\\ChefsNDishes\\Views\\_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
@@ -2983,6 +2993,11 @@
     {
       "FilePath": "c:\\Users\\crasg\\OneDrive\\04_Coding_Dojo\\C_Sharp\\03_Intro to ASP\\ChefsNDishes\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\crasg\\OneDrive\\04_Coding_Dojo\\C_Sharp\\03_Intro to ASP\\ChefsNDishes\\Views\\Home\\AddChef.cshtml",
+      "TargetPath": "Views\\Home\\AddChef.cshtml",
       "FileKind": "mvc"
     },
     {
